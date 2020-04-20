@@ -1,5 +1,8 @@
 # Changelog
 
+See full changelogs at: https://github.com/ThanatosFernandez/TFODev/blob/master/CHANGELOG.MD
+Request/Report bugs at: https://github.com/ThanatosFernandez/TFODev/issues/new/choose
+
 ## 20/04/2020
 
 ### Added
@@ -33,3 +36,5 @@ Fixed Morphs up
 # TODO
 
 - [] Add more RT morphs in-game (Once supervised)
+- [x] AFTER RESTART: Add Pyre tools in
+- [x] AFTER RESTART: Fixed Jailing system as it was missing up some parts in.

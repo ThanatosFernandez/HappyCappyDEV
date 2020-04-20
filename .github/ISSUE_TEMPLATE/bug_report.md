@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**What is your discord tag**
+Please place your discord tag E.G: Testuser#5472
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

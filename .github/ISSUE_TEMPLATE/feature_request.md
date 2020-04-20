@@ -6,6 +6,8 @@ labels: enhancement
 assignees: ''
 
 ---
+**What is your discord tag**
+Please place your discord tag E.G: Testuser#5472
 
 **What would you like to suggest**
 What is your suggestion on how to improve something up?

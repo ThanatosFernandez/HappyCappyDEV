@@ -12,6 +12,7 @@ Assigned Commendant morph to group rank
 
 ### Fixed
 Minigun no longer displays in the ground, however. It displays in a patrol stance, I'm not to sure how to make it so you're in combat position when you shoot.
+Fixed Morphs up
 
 # TODO
 

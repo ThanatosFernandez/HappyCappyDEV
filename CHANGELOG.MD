@@ -4,6 +4,7 @@
 
 ### Added
 HG Morphs added/Added Commendant morph
+Added additional tools to RT Ion Company
 
 ### Changed
 Fixed present issues with them

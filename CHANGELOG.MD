@@ -24,3 +24,12 @@ Fixed Morphs up
 **Important: (Controls: E to click on a person and bring up the menu, R to bail person faster out of the jail)**
 - [x] AFTER RESTART: Added Arrest tool to ET
 - [x] AFTER RESTART: Completed SharpshooterGlory's Request
+- [x] Add **Ark_Cappy** to Gen. Pryde morph and change "Entered base text"
+- [x] Added Pyre Morph
+- [x] Added sprint tool to some divisions which needed it
+
+## 21/04/2020
+
+# TODO
+
+- [] Add more RT morphs in-game (Once supervised)

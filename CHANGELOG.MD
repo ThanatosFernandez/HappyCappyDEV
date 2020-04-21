@@ -39,13 +39,23 @@ Fixed Arrest tool, again. Missed out some code lines whilst edited. Should be wo
 Tiny mistake in the text was found and fixed!
 
 ### Added
-
 Added HG to the Arrest tool access, previously missed them out by accident
 **Something Secret ???**
 
-# TODO
+#### After restart
+1. Added "Commander Pyre has joined the server" to current Pyre
+2. Added AcefUnity joined the server message
+3. Added Chief Operative morph for FOSB
+4. Added Tazers for RT Ion who didn't get it still
+5. Added lacking weapons to MT SL rank
 
-- [] Add more RT morphs in-game (Once supervised)
+# TODO
 - [x] Fixed TeamSwitch
 - [x] AFTER RESTART: Add Pyre tools in
 - [x] AFTER RESTART: Fixed Jailing system as it was missing up some parts in.
+
+## 22/04/2020
+
+## Planned updates
+
+- [] Add more RT morphs in-game (Once supervised)

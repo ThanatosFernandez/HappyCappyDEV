@@ -48,6 +48,7 @@ Added HG to the Arrest tool access, previously missed them out by accident
 3. Added Chief Operative morph for FOSB
 4. Added Tazers for RT Ion who didn't get it still
 5. Added lacking weapons to MT SL rank
+6. Added Speed tool to MT as well, as forgot to do it previously
 
 # TODO
 - [x] Fixed TeamSwitch

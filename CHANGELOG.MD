@@ -37,6 +37,10 @@ Fixed Morphs up
 ### Fixed
 Fixed Arrest tool, again. Missed out some code lines whilst edited. Should be working now! **Important: (Controls: E to click on a person and bring up the menu, R to bail person faster out of the jail)**
 
+### Added
+
+Added HG to the Arrest tool access, previously missed them out by accident
+
 
 # TODO
 

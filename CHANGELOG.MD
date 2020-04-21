@@ -1,6 +1,7 @@
 # Changelog
 
 See full changelogs at: https://github.com/ThanatosFernandez/TFODev/blob/master/CHANGELOG.MD
+
 Request/Report bugs at: https://github.com/ThanatosFernandez/TFODev/issues/new/choose
 
 ## 20/04/2020
@@ -32,6 +33,10 @@ Fixed Morphs up
 - [x] Added sprint tool to some divisions which needed it
 
 ## 21/04/2020
+
+### Fixed
+Fixed Arrest tool, again. Missed out some code lines whilst edited. Should be working now! **Important: (Controls: E to click on a person and bring up the menu, R to bail person faster out of the jail)**
+
 
 # TODO
 

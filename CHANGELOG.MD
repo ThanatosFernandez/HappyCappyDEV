@@ -46,5 +46,6 @@ Added HG to the Arrest tool access, previously missed them out by accident
 # TODO
 
 - [] Add more RT morphs in-game (Once supervised)
+- [x] Fixed TeamSwitch
 - [x] AFTER RESTART: Add Pyre tools in
 - [x] AFTER RESTART: Fixed Jailing system as it was missing up some parts in.

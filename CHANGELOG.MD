@@ -58,5 +58,8 @@ Added HG to the Arrest tool access, previously missed them out by accident
 ## 22/04/2020
 
 ## Planned updates
+- [x] Add more RT morphs in-game (Once supervised)
 
-- [] Add more RT morphs in-game (Once supervised)
+## Fixed
+FOSB Chief Operative morph not fully displaying on a person
+Fixed MT SL tool duplication

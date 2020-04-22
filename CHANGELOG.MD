@@ -57,9 +57,19 @@ Added HG to the Arrest tool access, previously missed them out by accident
 
 ## 22/04/2020
 
-## Planned updates
-- [x] Add more RT morphs in-game (Once supervised)
+## Added
+Added more RT morphs in-game
 
 ## Fixed
 FOSB Chief Operative morph not fully displaying on a person
 Fixed MT SL tool duplication
+
+##### On Restart
+- [x] Fixed RT CC morph
+- [x] Fixed RT CEO morph
+- [x] Fixed RT PL morph
+- [x] Fixed RT SL morph
+- [x] Fixed RT BO morph
+- [x] Fixed RT Ion morph
+- [x] Fixed RT Inspector morph
+- [x] Fixed RT Alpha morph

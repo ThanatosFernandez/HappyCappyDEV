@@ -78,6 +78,14 @@ Fixed MT SL tool duplication
 
 ## 23/04/2020
 
+## Fixed
+
+Fixed Transports on SKB
+
 ## TODO
 
 - [x] Added Lambda-12 morphs and jetpacks to them
+
+# Announcement
+
+In order to compensate that the **Sith Troopers** got the Jetpacks, they are banned to use any sort of flying vehicles now.

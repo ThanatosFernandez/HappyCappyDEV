@@ -73,3 +73,11 @@ Fixed MT SL tool duplication
 - [x] Fixed RT Ion morph
 - [x] Fixed RT Inspector morph
 - [x] Fixed RT Alpha morph
+
+
+
+## 23/04/2020
+
+## TODO
+
+- [x] Added Lambda-12 morphs and jetpacks to them

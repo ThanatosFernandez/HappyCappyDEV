@@ -82,6 +82,9 @@ Fixed MT SL tool duplication
 
 Fixed Transports on SKB
 
+## Added
+Made new train models to move forward and backwards on Training base
+
 ## TODO
 
 - [x] Added Lambda-12 morphs and jetpacks to them

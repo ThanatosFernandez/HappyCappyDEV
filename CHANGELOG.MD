@@ -74,8 +74,6 @@ Fixed MT SL tool duplication
 - [x] Fixed RT Inspector morph
 - [x] Fixed RT Alpha morph
 
-
-
 ## 23/04/2020
 
 ## Fixed
@@ -92,3 +90,9 @@ Made new train models to move forward and backwards on Training base
 # Announcement
 
 In order to compensate that the **Sith Troopers** got the Jetpacks, they are banned to use any sort of flying vehicles now.
+
+
+## 24/04/2020
+
+## Added
+Added requested morphs

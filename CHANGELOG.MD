@@ -91,8 +91,12 @@ Made new train models to move forward and backwards on Training base
 
 In order to compensate that the **Sith Troopers** got the Jetpacks, they are banned to use any sort of flying vehicles now.
 
-
 ## 24/04/2020
 
 ## Added
 Added requested morphs
+
+## 25/04/2020
+
+## Fixed
+Fixed HG Vibrostaff's speed (Hopefully fixing issues with long delays to unequip)

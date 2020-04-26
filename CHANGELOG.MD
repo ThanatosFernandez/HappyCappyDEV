@@ -100,3 +100,8 @@ Added requested morphs
 
 ## Fixed
 Fixed HG Vibrostaff's speed (Hopefully fixing issues with long delays to unequip)
+
+## 26/04/2020
+
+## Added
+Added requested morphs to people

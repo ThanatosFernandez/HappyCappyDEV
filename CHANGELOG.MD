@@ -110,5 +110,9 @@ Added requested morphs to people
 ## 27/04/2020
 
 ## Added
-Added HG Hanger panel to open and close upper hatch ![image](https://user-images.githubusercontent.com/64010566/80413163-affa8b00-88d7-11ea-942c-55e97cceda5c.png)
-Added "TK of personnel" to the Arrest tool ![image](https://user-images.githubusercontent.com/64010566/80413691-88f08900-88d8-11ea-894a-7a903e192192.png) Which jails the suspect for 600 seconds. AKA 2nd chance.
+Added HG Hanger panel to open and close upper hatch
+![image](https://user-images.githubusercontent.com/64010566/80413163-affa8b00-88d7-11ea-942c-55e97cceda5c.png)
+
+
+Added "TK of personnel" to the Arrest tool. Which jails the suspect for 600 seconds. AKA 2nd chance.
+![image](https://user-images.githubusercontent.com/64010566/80413691-88f08900-88d8-11ea-894a-7a903e192192.png) 

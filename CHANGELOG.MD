@@ -116,3 +116,8 @@ Added HG Hanger panel to open and close upper hatch
 
 Added "TK of personnel" to the Arrest tool. Which jails the suspect for 600 seconds. AKA 2nd chance.
 ![image](https://user-images.githubusercontent.com/64010566/80413691-88f08900-88d8-11ea-894a-7a903e192192.png) 
+
+## 29/04/2020
+
+## Fixed
+Fixed the Jetpack not displaying effects nor sound for all users

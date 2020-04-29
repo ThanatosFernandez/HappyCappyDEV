@@ -121,3 +121,8 @@ Added "TK of personnel" to the Arrest tool. Which jails the suspect for 600 seco
 
 ## Fixed
 Fixed the Jetpack not displaying effects nor sound for all users
+
+## 30/04/2020
+
+## Fixed
+Fixed tools loadout not giving out tools or giving incorrect ones due to the error

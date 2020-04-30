@@ -126,3 +126,4 @@ Fixed the Jetpack not displaying effects nor sound for all users
 
 ## Fixed
 Fixed tools loadout not giving out tools or giving incorrect ones due to the error
+Fixed that Visitors no longer should have weapons upon spawn

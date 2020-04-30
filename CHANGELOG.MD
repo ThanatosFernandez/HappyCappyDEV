@@ -127,3 +127,7 @@ Fixed the Jetpack not displaying effects nor sound for all users
 ## Fixed
 Fixed tools loadout not giving out tools or giving incorrect ones due to the error
 Fixed that Visitors no longer should have weapons upon spawn
+
+## Added
+All of HG members will now have alert whenever someone enters Throne room
+![image](https://trello-attachments.s3.amazonaws.com/5ea8ceba9b12fa72bc18648e/5eaa008d12f43c5e9fdfeeb1/fe53c878f6ccd96949193050c6f21487/image.png) 

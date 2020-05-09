@@ -130,4 +130,22 @@ Fixed that Visitors no longer should have weapons upon spawn
 
 ## Added
 All of HG members will now have alert whenever someone enters Throne room
-![image](https://trello-attachments.s3.amazonaws.com/5ea8ceba9b12fa72bc18648e/5eaa008d12f43c5e9fdfeeb1/fe53c878f6ccd96949193050c6f21487/image.png) 
+![image](https://trello-attachments.s3.amazonaws.com/5ea8ceba9b12fa72bc18648e/5eaa008d12f43c5e9fdfeeb1/fe53c878f6ccd96949193050c6f21487/image.png)
+
+
+## 09/05/2020
+
+## Fixed
+
+Fixed Cardinal Morph on SKB/Training base
+
+
+## Added
+
+Cardinal can now Cloak and Uncloak (They are still visible at some point)
+Cardinal SKB/Training base announcement
+Fishy added to Pyre morph/Tool fixes (Training base)
+
+## Changed
+
+RAIDER's Blade is activated on Z key (SKB)

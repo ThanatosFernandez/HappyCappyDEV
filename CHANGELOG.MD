@@ -149,3 +149,18 @@ Fishy added to Pyre morph/Tool fixes (Training base)
 ## Changed
 
 RAIDER's Blade is activated on Z key (SKB)
+
+## 13/05/2020
+
+## Fixes
+
+Fixed HG getting all force powers, now only certain rank does (Training base)
+
+## Removed
+
+Removed a few members of Raiders from ST morph
+
+## Added
+
+Added Raiders to HG Hangar (SKB)
+Added Speed tool to Sith Trooper Nu-7 members

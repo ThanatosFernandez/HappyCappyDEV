@@ -164,3 +164,8 @@ Removed a few members of Raiders from ST morph
 
 Added Raiders to HG Hangar (SKB)
 Added Speed tool to Sith Trooper Nu-7 members
+
+## 16/05/2020
+
+## Added
+Created a Lockdown in the prison area (Yes, this also locks all of the cells to prevent them from opening during the lockdown) (SKB)

@@ -169,3 +169,19 @@ Added Speed tool to Sith Trooper Nu-7 members
 
 ## Added
 Created a Lockdown in the prison area (Yes, this also locks all of the cells to prevent them from opening during the lockdown) (SKB)
+
+
+## 10/06/2020
+
+## Fixed
+
+Hopefully fixed all of issues with Executioners morphs
+Fixed that FOR could not access some areas
+
+## Changed
+
+Changed patrol bot to PG
+
+## Added
+
+Additional tools for the PG

@@ -185,3 +185,24 @@ Changed patrol bot to PG
 ## Added
 
 Additional tools for the PG
+
+## 13/06/2020
+
+## Added
+
+Mandalorians are now available, you can access them via going to Profile and selecting a team!
+
+From the loadout you get:
+
+1. SE-44
+2. Rocket launcher
+3. Sniper
+4. Jetpack
+
+## Q & A
+
+Q: How do I fly a jetpack?
+A: Simply, press F and hold your left mouse click button to fly where your mouse is aiming!
+
+Q: Will there be more content to the Mandolorian gamepass?
+A: Perhaps, though there is no ETA of it.

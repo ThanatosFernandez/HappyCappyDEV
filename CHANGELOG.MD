@@ -190,7 +190,7 @@ Additional tools for the PG
 
 ## Added
 
-Mandalorians are now available, you can access them via going to Profile and selecting a team!
+Mandalorians  are now available, you can access them via going to Profile and selecting a team!
 
 From the loadout you get:
 

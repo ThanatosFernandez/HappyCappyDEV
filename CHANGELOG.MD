@@ -215,6 +215,9 @@ Fixed and issue with spawns
 Fixed an issue with toolbar blocking spawn menu
 Fixed position of a few UI elements
 
+Fixed Government spawns
+Fixed spawning at Resistance team side
+
 ## Added
 
 Added Marines logger

@@ -206,3 +206,15 @@ A: Simply, press F and hold your left mouse click button to fly where your mouse
 
 Q: Will there be more content to the Mandolorian gamepass?
 A: Perhaps, though there is no ETA of it.
+
+## 05/07/2020
+
+## Fixed
+
+Fixed and issue with spawns
+Fixed an issue with toolbar blocking spawn menu
+Fixed position of a few UI elements
+
+## Added
+
+Added Marines logger

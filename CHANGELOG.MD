@@ -221,3 +221,10 @@ Fixed spawning at Resistance team side
 ## Added
 
 Added Marines logger
+
+
+## 17/07/2020
+
+## Fixed
+
+Rewrote weapon giving system, now it should work correctly

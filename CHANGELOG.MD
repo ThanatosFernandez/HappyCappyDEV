@@ -228,3 +228,10 @@ Added Marines logger
 ## Fixed
 
 Rewrote weapon giving system, now it should work correctly
+
+
+## 19/07/2020
+
+## Fixed
+
+Fixed X-Wing & A-Wing glitch which prevented character to exit the vehicle successfully
